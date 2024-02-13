@@ -20,3 +20,8 @@ git log
 ```sh
 git log --oneline
 ```
+
+Отображение всех веток
+```sh
+git branch
+```
