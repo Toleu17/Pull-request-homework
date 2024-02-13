@@ -9,7 +9,9 @@ git init
 git add
 ```
 Зафиксировать изменения:
-
+```sh
+git commit -m "Message"
+```
 Посмотреть лог в полном виде:
 ```sh
 git log
