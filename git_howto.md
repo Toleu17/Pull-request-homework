@@ -25,3 +25,7 @@ git log --oneline
 ```sh
 git branch
 ```
+Перемещение по веткам
+```sh
+git checkout
+```
