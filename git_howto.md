@@ -13,3 +13,6 @@ git init
 git log
 ```
 Посмотреть лог в сокращенном виде:
+```sh
+git log --oneline
+```
